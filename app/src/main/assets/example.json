@@ -1,0 +1,14 @@
+{
+  "contacts": [{
+    "id": "c200",
+    "name": "Kamal Verma",
+    "email": "kamal@gmail.com",
+    "address": "115,hari marg,civil lines,jaipur",
+    "gender": "male",
+    "phone": [{
+      "mobile": "+91 9509371638",
+      "home": "00 000000",
+      "office": "00 000000"
+    }]
+  }]
+}
